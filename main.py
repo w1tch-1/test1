@@ -1,1 +1,1 @@
-print(2)
+from config import app
